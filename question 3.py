@@ -1,0 +1,11 @@
+a=56
+b=10
+print("a=",a)
+print("b=",b)
+print("Result of a&b=",a&b)
+print("Result of a|b=",a|b)
+print("Result of a^b=",a^b)
+print("Result of left shift of a with 2 bits=",a<<2)
+print("Result of left shift of b with 2 bits=",b<<2)
+print("Result of right shift of a with 2 bits=",a>>2)
+print("Result of right shift of b with 4 bits=",b>>4)
